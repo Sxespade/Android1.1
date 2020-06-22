@@ -10,6 +10,11 @@
     <string name="today">Сегодня</string>
     <string name="status_today">Дождь</string>
     <string name="today_degrees">29°</string>
+    <string name="new_york">New-York</string>
+    <string name="london">London</string>
+    <string name="moscow">Moscow</string>
+    <string name="speed_of_wind">Скорость ветра</string>
+    <string name="pressure">Давление</string>
     <array name="Cities">
         <item>Moscow</item>
         <item>Piter</item>
